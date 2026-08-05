@@ -1,6 +1,6 @@
 # Shotgun — an AI assistant that explains itself, built for used-car auction buyers
 
-*I call shotgun!*
+*"I call shotgun!"*
 
 ## The context
 
