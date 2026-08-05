@@ -54,8 +54,6 @@ This screen shows two connected features. First, a buyer can leave a free-text n
 
 The bet this project makes is simple: a tool that shows its reasoning — and lets you push back on it — earns trust that a tool which just hands you a number never will. Everything above was built around making that reasoning checkable against what's actually on screen.
 
----
-
 ## Technical details
 
 This project was built on a company account during the hackathon, so the actual source code isn't something I have access to or can share here — this repo is a showcase, not the codebase. What follows is a description of how the project works and what it's built from, not setup or run instructions.
